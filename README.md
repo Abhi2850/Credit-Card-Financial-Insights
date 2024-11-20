@@ -9,11 +9,9 @@ Developed a comprehensive credit card weekly dashboard that provides real-time i
 4. PowerBI
 
 # Key Insights:
-1. Designed and implemented an interactive dashboard using transaction and customer data from a SQL database to provide real-time insights.
-2. 
-3. Optimized data processing and analysis workflows to efficiently monitor key performance metrics and trends.
-4. 
-5. Delivered actionable insights derived from dashboard findings to enhance decision-making processes and improve outcomes.
+1. Developed an interactive dashboard using transaction and customer data from a SQL database, to provide real-time insights.
+2. Streamlined data processing & analysis to monitor key performance metrics and trends.
+3. Delivered actionable insights derived from dashboard findings to enhance decision-making processes and improve outcomes.
 
 # Dashboard
   https://app.powerbi.com/view?r=eyJrIjoiMTAwNmRhMGUtM2MzMS00ZTFjLTlmZjMtMzYxYTA1MGExY2Y5IiwidCI6IjRhMzVhMTg0LWJmNDMtNDIwZS05ZjI1LTUwZTI4NmY1ODcxMyJ9
